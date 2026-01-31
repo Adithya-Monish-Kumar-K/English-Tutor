@@ -1,4 +1,4 @@
-# translator_ai
+# English Tutor
 
 A new Flutter project.
 
